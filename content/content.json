@@ -1,0 +1,36 @@
+{
+  "home": {
+    "pageTitle": "Food app",
+    "title": "Welcome to Food app",
+    "createLink": "Log some food waste",
+    "viewLink": "View my records"
+  },
+  "createItem": {
+    "pageTitle": "Log some food waste",
+    "title": "Log some food waste",
+    "form": {
+      "itemId": {
+        "name": "itemNameInput",
+        "label": "Item name",
+        "placeholder": "Enter item"
+      },
+      "itemQuantity": {
+        "name": "itemQuantityInput",
+        "label": "Item quantity",
+        "placeholder": "Enter quantity"
+      },
+      "itemSize": {
+        "name": "itemSizeInput",
+        "label": "Item size",
+        "placeholder": "Enter size"
+      },
+      "itemValue": {
+        "name": "itemValueInput",
+        "label": "Item value",
+        "placeholder": "Enter value"
+      },
+
+      "cta": "Save"
+    }
+  }
+}
