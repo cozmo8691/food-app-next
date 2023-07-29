@@ -1,3 +1,3 @@
-Next boilerplate - using Prisma and Tailwind.
+WIP App to track food waste 
 
-Based on the [Frontendmasters.com](https://frontendmasters.com/) workshop tutorial by Scott Moss.
+Built using Next.js Prisma and Tailwind.
